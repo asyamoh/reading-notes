@@ -1,0 +1,3 @@
+how to present the html to a non-technical friend interested in learning about it.
+
+Tell them to draw a basic physical structure of human body. Once they drew, ask them various parts that make up a complete human body. Although a non technical person, I am sure they might be knowing at least different parts (hands, legs, face, etc). Now make that person understand that just as these parts make up a complete human body, in the same way there are some elements/parts which make up a webpage(or website). To be more concise, they are known as HTML tags(imagine as different body parts) without which a webpage is incomplete. Those HTML tags describes the structure (Imagine human body) of webpage(website).

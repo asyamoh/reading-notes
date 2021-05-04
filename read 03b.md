@@ -18,4 +18,5 @@ The rule opens with a selector . This selects the HTML element that we are going
 We then have a set of curly braces { }. Inside those will be one or more declarations, which take the form of property and value pairs. Each pair specifies a property of the element(s) we are selecting, then a value that we'd like to give the property.
 
 for more info check this out! [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS#what_is_css_for
-)
+) ,[Cssref](https://www.w3schools.com/cssref/pr_text_color.asp)
+,[CSS tools](https://meyerweb.com/eric/tools/css/reset/).

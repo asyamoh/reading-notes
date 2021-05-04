@@ -10,4 +10,4 @@ my name is Asia Nazif I graduated engineering from univesity of Jordan
 |read 02	    |[read02](https://asyamoh.github.io/reading-notes/read%2002)|	                
 |read 03	    |[read03](https://asyamoh.github.io/reading-notes/read%2003)                          
 |read 03b	    |[read03b](https://asyamoh.github.io/reading-notes/read%2003b)|
-|read 01	    |[read01](https://asyamoh.github.io/reading-notes/read%200222) |
+|read 01	    |[read01](https://asyamoh.github.io/reading-notes/read%2001) |

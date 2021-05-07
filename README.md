@@ -1,5 +1,4 @@
-my name is Asia Nazif I graduated engineering from univesity of Jordan 
-  
+my name is Asia Nazif a ChE graduate form university of jardan.
 
 
 

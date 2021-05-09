@@ -12,3 +12,4 @@ my name is Asia Nazif a ChE graduate form university of jardan.
 |read 01	    |[read01](https://asyamoh.github.io/reading-notes/read%2001) |
 | raed04      |[read04](https://asyamoh.github.io/reading-notes/read04)                                                                |
 |read05        | [ read05 ](https://asyamoh.github.io/reading-notes/read05)                  |
+|read06               | [read06] (https://asyamoh.github.io/reading-notes/read06)                               |
